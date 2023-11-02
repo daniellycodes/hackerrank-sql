@@ -1,4 +1,4 @@
 # @daniellycodes
 # mysql
 
-select * from CITY where POPULATION > 100000 and COUNTRYCODE = 'USA';
+SELECT * FROM city WHERE population > 100000 AND countrycode = 'USA';
